@@ -2,6 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning NodesJs and Express
 - 💞️ I’m looking to collaborate on MEAN Stack Applications
+Yall can find me on Social media platforms
 
 <!---
 KS-Cypher/KS-Cypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
